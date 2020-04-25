@@ -8,3 +8,9 @@ Created Pong, Tetris, and Snake.
 Used Google API to update news page.
 
 Created by: Victor Polisetty and Sonu Venu
+
+Instructions to Run:
+1. Install PHP Server (We used Easy PHP Devserver).
+2. Run file named: "logn.php".
+3. Follow instructions on screen to create an account and login.
+4. Enjoy the games :)
